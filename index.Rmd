@@ -1,5 +1,5 @@
 ---
-title: "Gov 50 Final Project"
+title: "PS270 Final Project"
 author: "Your Name Here"
 description: "My final project"
 output:
